@@ -214,3 +214,7 @@ If you encounter other issues, check the terminal for error messages or restart 
 Enjoy using Comfort AI to make your home smarter and more comfortable!
 
 **Note**: The system publishes to MQTT topics based on the keys in the 'action' dictionary in `data.json`. By default, it uses 'fan' and 'light'. Ensure your devices are subscribed to these topics or adjust the topics in `data.json` and your device code accordingly.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
